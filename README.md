@@ -6,3 +6,5 @@ This project is developed as part of the ISI Summer Internship 2025.
 
 ## Access the data via Mega:
 https://mega.nz/folder/eINWmQgD#K5NOd8RwbvKTDe84bqkXmw
+
+## Make sure to download the data folder and add it to the project folder
